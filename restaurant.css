@@ -1,0 +1,16 @@
+body {
+background-color: lightgrey;
+font-family: Arial; serif;
+}
+
+text, th, tr, td {
+   border: 1px solid black;
+}
+
+footer {
+  font-weight: bold;
+}
+
+.dishes {
+  font: red;
+}
