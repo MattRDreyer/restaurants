@@ -1,16 +1,32 @@
 body {
-background-color: lightgrey;
-font-family: Arial; serif;
+font-family: times; serif;
+font-weight: bold;
+background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-image: url('foodtraybkg.jpg');
+}
+
+h1 {
+  font-family: cursive;
 }
 
 text, th, tr, td {
    border: 1px solid black;
+   font-family: fantasy;
 }
 
 footer {
   font-weight: bold;
+  font-family: monospace;
+  font-size: 15px;
 }
 
 .dishes {
-  font: red;
+  margin: 2.5%;
+  align-items: center;
+}
+
+table {
+  align-self:center;
 }
